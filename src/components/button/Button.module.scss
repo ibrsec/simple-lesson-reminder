@@ -1,0 +1,16 @@
+
+@use '../../scss/variables';
+.btn{
+    padding: .7rem 5rem; 
+    border-radius: 1rem;
+    border: none;
+    background-color: variables.$green-color ;
+    color: variables.$cream-green-color ;
+transition: .5s all;
+cursor: pointer;
+    &:hover{
+
+    background-color: variables.$cream-green-color ;
+    color: variables.$green-color ;
+    }
+}

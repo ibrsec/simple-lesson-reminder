@@ -1,0 +1,23 @@
+@use '../../scss/variables';
+
+.header{
+    background-color: variables.$green-color;
+    box-shadow: 1px 1px 10px variables.$green-color ;
+    .container{
+
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        max-width: 1200px;
+        margin:auto; 
+        padding: 1rem;
+    }
+    img{
+        width: 80px;
+    }
+    h1{
+        font-family: variables.$rubik-font;
+        padding: 1rem;
+        color: variables.$cream-green-color;;
+    }
+}
