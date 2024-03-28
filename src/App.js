@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+  
 import { useContext, useState } from 'react';
 import Header from './components/header/Header';
 import Content from './components/content/Content';
