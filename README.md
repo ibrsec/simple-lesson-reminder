@@ -15,7 +15,7 @@
     <a href="https://github.com/ibrsec/lesson-reminder"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/lesson-reminder/">View Demo</a>
+    <a href="https://lesson-reminder-three.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/lesson-reminder/issues">Report Bug</a>
     ·
@@ -63,7 +63,7 @@
 <a name="about-the-project"></a>
 ## ℹ️ About The Project
 
-[![lesson-reminder](./src/img/project.gif)](https://ibrsec.github.io/lesson-reminder/)
+[![lesson-reminder](./src/img/project.gif)](https://lesson-reminder-three.vercel.app/)
 
 
 
