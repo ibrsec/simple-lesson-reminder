@@ -1,6 +1,5 @@
-{
-  "homepage": "https://ibrsec.github.io/lesson-reminder/",
-  "name": "lesson-reminder",
+{ 
+  "name": "simple-lesson-reminder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
